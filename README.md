@@ -4,3 +4,5 @@
   - OneillDevinLab1.cpp - Hello World
   - OneillDevinLab1.out - Binary, compiled in VS-2015
   - OneillDevinLab1gcc.out - Binary, compiled in GCC
+
+## Lab 2 - 9/10/2020
