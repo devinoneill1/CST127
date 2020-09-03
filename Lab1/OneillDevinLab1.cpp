@@ -1,5 +1,17 @@
+// ----------------------------------------------------------------------------
+// Name: Devin O'Neill, CST 127
+// Program: Lab #1
+// Due Date: 09/08/2020
+//
+// Program Description: Birthday IO with calculations
+//
+// Inputs: Integer values from console
+//
+// Outputs: Text and calculated values to console
+//
+// ----------------------------------------------------------------------------
 
-#include "stdafx.h"
+
 #include <algorithm>
 #include <iostream>   // tells the program to use the “standard” I/O devices
 using namespace std;
